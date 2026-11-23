@@ -9,16 +9,12 @@ Author: Janni Virta
 
 ### Project idea
 
-Briefly describe what your application does and who it is intended for.
+The website is meant for searching information about movies being shown at Finnkino.
 
 ### Planned features
 
-List at least three features you plan to include in your application:
-
-- Feature 1
-- Feature 2
-- Feature 3
-
+-dropdown list to select a theater
+-pictures and information about the movies shown
 
 ## Web links
 
