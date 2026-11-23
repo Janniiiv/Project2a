@@ -6,10 +6,15 @@
     <title>Finnkino movie search</title>
 </head>
 <body>
-    <h1>Finnkino movie search</h1>
+    <h1>Select a movie theater</h1>
     <form>
-        <label for="movie-title">Movie title:</label>
-        <input type="text" id="movie-title" name="movie-title" required>
+        <label for="theater">Theater:</label>
+        <select id="theater" name="theater" required>
+            <option value="">Select a theater</option>
+            <option value="finnkino-helsinki">Finnkino Helsinki</option>
+            <option value="finnkino-tampere">Finnkino Tampere</option>
+            <option value="finnkino-oulu">Finnkino Oulu</option>
+        </select>
         <button type="submit">Search</button>
     </form>
 </body>
