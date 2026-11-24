@@ -69,6 +69,7 @@ I need to practice some javascript basics more because I found it challenging wi
 
 
 Tutorial: https://www.youtube.com/watch?v=6qJeqM3XgdQ
+Lectures and course material from canvas by Juho Kastemaa
 AI (Grok) was used with ideas for css styling, and to help connect the finnkino api to the website because it was not working. On VS code I also used the copilot code completion feature to speed up the work but edited the suggestions when necessary. 
 
 ## License
