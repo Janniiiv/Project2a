@@ -4,19 +4,29 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Finnkino movie search</title>
+
+<!-- Link to the CSS file -->
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1>Select a movie theater</h1>
-    <form>
-        <label for="theater">Theater:</label>
-        <select id="theater" name="theater" required>
-            <option value="">Select a theater</option>
-            <option value="finnkino-helsinki">Finnkino Helsinki</option>
-            <option value="finnkino-tampere">Finnkino Tampere</option>
-            <option value="finnkino-oulu">Finnkino Oulu</option>
-        </select>
-        <button type="submit">Search</button>
-    </form>
+    <div class="container">
+<!--theaterselection-->
+        <h1>Select a movie theater</h1>
+        <p class="description">Choose a theater from the dropdown menu below to search for movies currently showing.</p>
+        <form class="movie-form">
+            <label for="theater">Theater:</label>
+            <select id="theater" name="theater" required>
+                <option value="">Select a theater</option>
+                <option value="finnkino-helsinki">Finnkino Helsinki</option>
+                <option value="finnkino-tampere">Finnkino Tampere</option>
+                <option value="finnkino-oulu">Finnkino Oulu</option>
+            </select>
+            <button type="submit">Search</button>
+        </form>
+    </div>
+
+<!--javascript-->
+    <script src="script.js"></script>
 </body>
 </html>
 
