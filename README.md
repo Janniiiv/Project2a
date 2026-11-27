@@ -13,14 +13,14 @@ The website is meant for searching information about movies being shown at Finnk
 
 ### Planned features
 
--dropdown list to select a theater
--pictures and information about the movies shown
+-Dropdown list to select a theater
+-Pictures and information about the movies shown
 
 ## Web links
 
-- **Published application:** [Add your GitHub Pages URL here](https://yourusername.github.io/your-repository/)
-- **GitHub repository:** [Add your repository URL here](https://github.com/yourusername/your-repository)
-- **Project video presentation:** [Add your video URL here](https://example.com/)
+- **Published application:** https://sparkling-gaufre-504908.netlify.app
+- **GitHub repository:** https://github.com/Janniiiv/Project2a.git
+- **Project video presentation:** https://video.laurea.fi/media/t/0_a8zmy8pe
 
 ## About the application
 
