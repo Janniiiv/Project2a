@@ -24,9 +24,7 @@ The website is meant for searching information about movies being shown at Finnk
 
 ## About the application
 
-**[Project name]** is a web application that ...
-
-Briefly describe the purpose of your application and its main features.
+The application should show what movies are playing in a selected Finnkino theater.
 
 ## Technologies
 
@@ -34,55 +32,40 @@ Describe the technologies you used and their role in your project.
 
 - HTML – page structure
 - CSS – styling and layout
-- JavaScript – functionality, DOM scripting and form validation
-- localStorage – saving data in the browser, if used
+- JavaScript – AJAX
 
 ## How to use the application
 
-Write short instructions for using the application.
 
 1. Open the published application using the link above.
-2. Fill in the form fields.
-3. Add, edit, remove or mark items as completed.
-4. Refresh the page and check whether data remains available in the browser, if you used localStorage.
+2. Choose the movie theater from the drop down menu
+3. You will see movies that are being shown in the selected theater
 
 
 ## Screenshots
 
-Add at least one screenshot of your working application.
 
 Example:
 
-![Screenshot of the application](img/screenshot.png)
+<img width="1731" height="811" alt="image" src="https://github.com/user-attachments/assets/bb6e9a66-3e00-4b62-a048-b2244af0e706" />
+
 
 ## Known issues / limitations
 
-Describe any known bugs, missing features or other limitations.
-
-If there are no known issues, write: **No known issues.**
+After selecting a theater unfortunately it returns: Failed to fetch. 
 
 
 ## Self-assessment and learning reflection
 
-Reflect on your work and learning process.
+I need to practice some javascript basics more because I found it challenging without the lecture material, tutorial and help of AI to do the assignment. In the future I would start the project earlier by practicing javascript basics more before starting the full project. I did understand what is happening in the tutorial instead of just copying because I was able to make the features to fit my own project. I Still want to practice more and do more projects related to javascript when I have more time. I would give the project 4/10 as it is very basic and I used tutorials and AI to help, and it did not show any movies for the selected theater as it should. 
 
-- What did I succeed in?
-- What was challenging?
-- What would I improve if I had more time?
-- What did I learn about HTML, CSS, JavaScript and DOM scripting?
-- What remained unclear or what would I like to learn more about?
-- My self-assessed project grade: **xx/10 points**
 
 ## Sources and acknowledgements
 
-List all sources, tutorials, images and code examples used in your project.
 
-If you used ChatGPT, GitHub Copilot or another AI tool, mention it here and briefly explain how it supported your work.
-
-- [Source or tutorial name](https://example.com/)
-- [Image source](https://example.com/)
-- AI tool used: ...
-  - How the tool was used: ...
+Tutorial: https://www.youtube.com/watch?v=6qJeqM3XgdQ
+Lectures and course material from canvas Web Development 1 course by Juho Kastemaa
+AI (Grok) was used with ideas for css styling, and to help connect the finnkino api to the website because it was not working. On VS code I also used the copilot code completion feature to speed up the work but edited the suggestions when necessary. 
 
 ## License
 
